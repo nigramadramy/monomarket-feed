@@ -62,9 +62,9 @@
     </offer>
     <offer>
       <id>8411479179481</id>
-      <code>earrings-soloveyko-small</code>
-      <vendor_code>earrings-soloveyko-small</vendor_code>
-      <title>Кульчики &quot;Соловейко&quot; Ні грама драми срібло з позолотою (earrings-soloveyko-small)</title>
+      <code>acc-kul-sol-mal</code>
+      <vendor_code>acc-kul-sol-mal</vendor_code>
+      <title>Кульчики &quot;Соловейко&quot; Ні грама драми срібло з позолотою (acc-kul-sol-mal)</title>
       <barcode>2000000000016</barcode>
       <category>Кульчики жіночі</category>
       <category_id>2</category_id>
@@ -119,9 +119,9 @@
     </offer>
     <offer>
       <id>8173470220505</id>
-      <code>sun-kiss-necklace</code>
-      <vendor_code>sun-kiss-necklace</vendor_code>
-      <title>Підвіска «Цілунок Сонця» Ні грама драми срібло з позолотою (sun-kiss-necklace)</title>
+      <code>acc-sun</code>
+      <vendor_code>acc-sun</vendor_code>
+      <title>Підвіска «Цілунок Сонця» Ні грама драми срібло з позолотою (acc-sun)</title>
       <barcode>2000000000017</barcode>
       <category>Підвіска жіноча</category>
       <category_id>3</category_id>
@@ -174,9 +174,9 @@
     </offer>
     <offer>
       <id>8588193857753</id>
-      <code>earrings-sun-scythia</code>
-      <vendor_code>earrings-sun-scythia</vendor_code>
-      <title>Кульчики &quot;Сонце Малої Скіфії&quot; Ні грама драми срібло з позолотою (earrings-sun-scythia)</title>
+      <code>acc-ear-skif-2</code>
+      <vendor_code>acc-ear-skif-2</vendor_code>
+      <title>Кульчики &quot;Сонце Малої Скіфії&quot; Ні грама драми срібло з позолотою (acc-ear-skif-2)</title>
       <barcode>2000000000018</barcode>
       <category>Кульчики жіночі</category>
       <category_id>2</category_id>
@@ -229,9 +229,9 @@
     </offer>
     <offer>
       <id>8100249665753</id>
-      <code>necklace-corali-crystal</code>
-      <vendor_code>necklace-corali-crystal</vendor_code>
-      <title>Намисто &quot;Коралі&quot; (кристали) Ні грама драми натуральні корали (necklace-corali-crystal)</title>
+      <code>acc-coral-c</code>
+      <vendor_code>acc-coral-c</vendor_code>
+      <title>Намисто &quot;Коралі&quot; (кристали) Ні грама драми натуральні корали (acc-coral-c)</title>
       <barcode>2000000000019</barcode>
       <category>Намисто жіноче</category>
       <category_id>2</category_id>
@@ -284,9 +284,9 @@
     </offer>
     <offer>
       <id>8003691905241</id>
-      <code>necklace-corali-pearls</code>
-      <vendor_code>necklace-corali-pearls</vendor_code>
-      <title>Намисто &quot;Коралі&quot; (перлини) Ні грама драми натуральні перлини (necklace-corali-pearlsl)</title>
+      <code>acc-coral-p</code>
+      <vendor_code>acc-coral-p</vendor_code>
+      <title>Намисто &quot;Коралі&quot; (перлини) Ні грама драми натуральні перлини (acc-coral-p)</title>
       <barcode>2000000000020</barcode>
       <category>Намисто жіноче</category>
       <category_id>2</category_id>
@@ -339,9 +339,9 @@
     </offer>
     <offer>
       <id>8049389273305</id>
-      <code>earring-soloveyko-big</code>
-      <vendor_code>earring-soloveyko-big</vendor_code>
-      <title>Монокульчик &quot;Золотий соловей&quot; Ні грама драми позолота (earring-soloveyko-big)</title>
+      <code>acc-kul-sol-big</code>
+      <vendor_code>acc-kul-sol-big</vendor_code>
+      <title>Монокульчик &quot;Золотий соловей&quot; Ні грама драми позолота (acc-kul-sol-big)</title>
       <barcode>2000000000021</barcode>
       <category>Кульчики жіночі</category>
       <category_id>2</category_id>
@@ -396,9 +396,9 @@
     </offer>
     <offer>
       <id>8588192743641</id>
-      <code>necklace-sun-scythia-crysta</code>
-      <vendor_code>necklace-sun-scythia-crysta</vendor_code>
-      <title>Намисто &quot;Сонце Великої Скіфії&quot; з намистинами Ні грама драми (necklace-sun-scythia-crysta)</title>
+      <code>acc-neck-skif-bead</code>
+      <vendor_code>acc-neck-skif-bead</vendor_code>
+      <title>Намисто &quot;Сонце Великої Скіфії&quot; з намистинами Ні грама драми (acc-neck-skif-bead)</title>
       <barcode>2000000000022</barcode>
       <category>Намисто жіноче</category>
       <category_id>2</category_id>
@@ -451,9 +451,9 @@
     </offer>
     <offer>
       <id>8599549837529</id>
-      <code>golden-wheat-ring-silver</code>
-      <vendor_code>golden-wheat-ring-silver</vendor_code>
-      <title>Каблучка &quot;Колос країни&quot; срібло в родії Ні грама драми (golden-wheat-ring-silver)</title>
+      <code>acc-ring-kol-silver</code>
+      <vendor_code>acc-ring-kol-silver</vendor_code>
+      <title>Каблучка &quot;Колос країни&quot; срібло в родії Ні грама драми (acc-ring-kol-silver)</title>
       <barcode>2000000000023</barcode>
       <category>каблучка жіноче</category>
       <category_id>2</category_id>
@@ -506,9 +506,9 @@
     </offer>
     <offer>
       <id>8271408267481</id>
-      <code>sun-kiss-bracele</code>
-      <vendor_code>sun-kiss-bracele</vendor_code>
-      <title>Браслет &quot;Цілунок Сонця&quot; позолота Ні грама драми (sun-kiss-bracele)</title>
+      <code>acc-sun-brac</code>
+      <vendor_code>acc-sun-brac</vendor_code>
+      <title>Браслет &quot;Цілунок Сонця&quot; позолота Ні грама драми (acc-sun-brac)</title>
       <barcode>2000000000024</barcode>
       <category>Браслет жіночі</category>
       <category_id>2</category_id>
@@ -561,9 +561,9 @@
     </offer>
     <offer>
       <id>8410522321113</id>
-      <code>sun-kiss-necklace-gold</code>
-      <vendor_code>sun-kiss-necklace-gold</vendor_code>
-      <title>Підвіска &quot;Цілунок сонця&quot; золото Ні грама драми (sun-kiss-necklace-gold)</title>
+      <code>acc-sun-gold</code>
+      <vendor_code>acc-sun-gold</vendor_code>
+      <title>Підвіска &quot;Цілунок сонця&quot; золото Ні грама драми (acc-sun-gold)</title>
       <barcode>2000000000025</barcode>
       <category>Підвіска жіноча</category>
       <category_id>2</category_id>
@@ -619,9 +619,9 @@
     </offer>
     <offer>
       <id>8173469073625</id>
-      <code>sun-kiss-earrings</code>
-      <vendor_code>sun-kiss-earrings</vendor_code>
-      <title>Кульчики &quot;Цілунок сонця&quot; позолота Ні грама драми (sun-kiss-earrings)</title>
+      <code>acc-kul-sun-2</code>
+      <vendor_code>acc-kul-sun-2</vendor_code>
+      <title>Кульчики &quot;Цілунок сонця&quot; позолота Ні грама драми (acc-kul-sun-2)</title>
       <barcode>2000000000026</barcode>
       <category>Кульчики жіночі</category>
       <category_id>2</category_id>
@@ -676,9 +676,9 @@
     </offer>
     <offer>
       <id>9713200595161</id>
-      <code>letter-pendant-a</code>
-      <vendor_code>letter-pendant-a</vendor_code>
-      <title>Літера-підвіска «A» Ні грама драми латунь з позолотою (letter-pendant-a)</title>
+      <code>acc-letter-min-gl-a</code>
+      <vendor_code>acc-letter-min-gl-a</vendor_code>
+      <title>Літера-підвіска «A» Ні грама драми латунь з позолотою (lacc-letter-min-gl-a)</title>
       <barcode>2000000000027</barcode>
       <category>Підвіска унісекс</category>
       <category_id>4</category_id>
@@ -736,9 +736,9 @@
     </offer>
     <offer>
       <id>9716676133081</id>
-      <code>letter-pendant-b</code>
-      <vendor_code>letter-pendant-b</vendor_code>
-      <title>Літера-підвіска «B» Ні грама драми латунь з позолотою (letter-pendant-b)</title>
+      <code>acc-letter-min-gl-b</code>
+      <vendor_code>acc-letter-min-gl-b</vendor_code>
+      <title>Літера-підвіска «B» Ні грама драми латунь з позолотою (lacc-letter-min-gl-b)</title>
       <barcode>2000000000028</barcode>
       <category>Підвіска унісекс</category>
       <category_id>4</category_id>
@@ -796,9 +796,9 @@
     </offer>
     <offer>
       <id>9716695007449</id>
-      <code>letter-pendant-c</code>
-      <vendor_code>letter-pendant-c</vendor_code>
-      <title>Літера-підвіска «C» Ні грама драми латунь з позолотою (letter-pendant-c)</title>
+      <code>acc-letter-min-gl-c</code>
+      <vendor_code>acc-letter-min-gl-c</vendor_code>
+      <title>Літера-підвіска «C» Ні грама драми латунь з позолотою (acc-letter-min-gl-c)</title>
       <barcode>2000000000029</barcode>
       <category>Підвіска унісекс</category>
       <category_id>4</category_id>
@@ -856,9 +856,9 @@
     </offer>
     <offer>
       <id>9716712341721</id>
-      <code>letter-pendant-d</code>
-      <vendor_code>letter-pendant-d</vendor_code>
-      <title>Літера-підвіска «D» Ні грама драми латунь з позолотою (letter-pendant-d)</title>
+      <code>acc-letter-min-gl-d</code>
+      <vendor_code>acc-letter-min-gl-d</vendor_code>
+      <title>Літера-підвіска «D» Ні грама драми латунь з позолотою (acc-letter-min-gl-d)</title>
       <barcode>2000000000030</barcode>
       <category>Підвіска унісекс</category>
       <category_id>4</category_id>
@@ -916,9 +916,9 @@
     </offer>
     <offer>
       <id>9716724007129</id>
-      <code>letter-pendant-e</code>
-      <vendor_code>letter-pendant-e</vendor_code>
-      <title>Літера-підвіска «E» Ні грама драми латунь з позолотою (letter-pendant-e)</title>
+      <code>acc-letter-min-gl-e</code>
+      <vendor_code>acc-letter-min-gl-e</vendor_code>
+      <title>Літера-підвіска «E» Ні грама драми латунь з позолотою (acc-letter-min-gl-e)</title>
       <barcode>2000000000031</barcode>
       <category>Підвіска унісекс</category>
       <category_id>4</category_id>
