@@ -1,6 +1,6 @@
 {
-  "total": 17,
-  "updatedAt": "2026-05-07T19:07:19Z",
+  "total": 64,
+  "updatedAt": "2026-05-11T07:59:24Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -420,6 +420,1228 @@
     },
     {
       "code": "acc-letter-min-gl-e",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-f",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-g",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-h",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-i",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-j",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-k",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-l",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-m",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-n",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-o",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-p",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-q",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-r",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-s",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-t",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-u",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-v",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-w",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-x",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-y",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-gl-z",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-a",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-b",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-c",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-d",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-e",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-f",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-g",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-h",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-i",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-j",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-k",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-l",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-m",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-n",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-o",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-p",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-q",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-r",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-s",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-t",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-u",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-v",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-w",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-x",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-y",
+      "price": 2900,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 5,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-letter-min-sl-z",
       "price": 2900,
       "availability": true,
       "stock": 3,
