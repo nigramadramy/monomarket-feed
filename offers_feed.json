@@ -1,6 +1,6 @@
 {
   "total": 64,
-  "updatedAt": "2026-05-11T18:57:23Z",
+  "updatedAt": "2026-05-12T22:26:22Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -10,7 +10,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -36,7 +36,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -62,7 +62,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -88,7 +88,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -114,7 +114,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -140,7 +140,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -166,7 +166,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -192,7 +192,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -218,7 +218,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -244,7 +244,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -270,7 +270,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 14,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -296,7 +296,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -322,7 +322,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -348,7 +348,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -374,7 +374,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -400,7 +400,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -426,7 +426,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -452,7 +452,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -478,7 +478,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -504,7 +504,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -530,7 +530,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -556,7 +556,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -582,7 +582,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -608,7 +608,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -634,7 +634,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -660,7 +660,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -686,7 +686,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -712,7 +712,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -738,7 +738,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -764,7 +764,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -790,7 +790,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -816,7 +816,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -842,7 +842,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -868,7 +868,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -894,7 +894,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -920,7 +920,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -946,7 +946,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -972,7 +972,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -998,7 +998,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1024,7 +1024,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1050,7 +1050,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1076,7 +1076,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1102,7 +1102,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1128,7 +1128,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1154,7 +1154,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1180,7 +1180,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1206,7 +1206,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1232,7 +1232,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1258,7 +1258,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1284,7 +1284,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1310,7 +1310,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1336,7 +1336,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1362,7 +1362,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1388,7 +1388,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1414,7 +1414,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1440,7 +1440,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1466,7 +1466,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1492,7 +1492,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1518,7 +1518,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1544,7 +1544,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1570,7 +1570,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1596,7 +1596,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1622,7 +1622,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -1648,7 +1648,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 5,
+      "days_to_dispatch": 10,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
