@@ -1,6 +1,6 @@
 {
   "total": 74,
-  "updatedAt": "2026-05-13T21:56:25Z",
+  "updatedAt": "2026-05-13T22:01:46Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -14,6 +14,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -41,6 +49,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -66,6 +82,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -93,6 +117,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -118,6 +150,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -145,6 +185,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -170,6 +218,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -197,6 +253,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -222,6 +286,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -249,6 +321,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -274,6 +354,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -301,6 +389,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -326,6 +422,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -353,6 +457,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -378,6 +490,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -405,6 +525,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -430,6 +558,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -457,6 +593,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -482,6 +626,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -509,6 +661,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -534,6 +694,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -561,6 +729,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -586,6 +762,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -613,6 +797,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -638,6 +830,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -665,6 +865,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -690,6 +898,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -717,6 +933,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -742,6 +966,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -769,6 +1001,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -794,6 +1034,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -821,6 +1069,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -846,6 +1102,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -873,6 +1137,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -898,6 +1170,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -925,6 +1205,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -950,6 +1238,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -977,6 +1273,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1002,6 +1306,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1029,6 +1341,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1054,6 +1374,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1081,6 +1409,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1106,6 +1442,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1133,6 +1477,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1158,6 +1510,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1185,6 +1545,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1210,6 +1578,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1237,6 +1613,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1262,6 +1646,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1289,6 +1681,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1314,6 +1714,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1341,6 +1749,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1366,6 +1782,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1393,6 +1817,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1418,6 +1850,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1445,6 +1885,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1470,6 +1918,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1497,6 +1953,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1522,6 +1986,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1549,6 +2021,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1574,6 +2054,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1601,6 +2089,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1627,6 +2123,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1652,6 +2156,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1680,6 +2192,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1706,6 +2226,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1734,6 +2262,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1760,6 +2296,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1788,6 +2332,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1814,6 +2366,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1842,6 +2402,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1869,6 +2437,14 @@
         {
           "method": "nova-post:branch",
           "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
         }
       ],
       "warehouses": [
@@ -1894,6 +2470,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
@@ -1921,6 +2505,14 @@
       "delivery_methods": [
         {
           "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
           "price": 0
         }
       ],
