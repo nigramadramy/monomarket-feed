@@ -4312,57 +4312,5 @@
         <param name="Водостійкість">ні</param>
       </tags>
     </offer>
-    <offer>
-      <id>8427715133659</id>
-      <code>silver-wheat-settttee</code>
-      <vendor_code>silver-wheat-settttee</vendor_code>
-      <title>Набір «Срібний колос» (чокер + монокульчик) Ні грама драми (silver-wheat-settttee)</title>
-      <barcode>2000000000089</barcode>
-      <category>Набір прикрас</category>
-      <category_id>4</category_id>
-      <brand>Ні грама драми</brand>
-      <availability>Є в наявності</availability>
-      <weight>0.05</weight>
-      <height>3</height>
-      <width>15</width>
-      <length>15</length>
-      <description>
-        <![CDATA[
-          <h5>Набір «Срібний колос» (чокер + монокульчик) Ні грама драми</h5>
-      <br>
-      <p>Жіночий подарунковий набір.
-
-До набору входить:
-- монокульчик «Колос країни» срібний
-- чокер «Ранкова роса» з натуральними перлами і срібним колосом</p>
-      <br>
-      <h5>Догляд за виробом</h5>
-      <br>
-      <p>Покриття чутливе до вологи. Знімайте перед душем, плаванням і контактом з косметикою чи парфумами — це збереже сяйво позолоти надовго.</p>
-      <br>
-      <h5>Чудовий подарунок</h5>
-      <br>
-      <p>Набір приходить у фірмовій коробочці з м'яким мішечком — готовий до того, щоб стати приємним подарунком на день народження, річницю чи без особливого приводу.</p>
-        ]]>
-      </description>
-      <image_link>
-        <picture>https://cdn.shopify.com/s/files/1/0636/6488/1881/files/ef110974-3068-47cc-a80d-0d53e85a56c0.jpg?v=1778691050</picture>
-        <picture>https://nigramadramy.store/cdn/shop/files/01_2_cr.jpg?v=1710940389&amp;width=1381</picture>
-        <picture>https://nigramadramy.store/cdn/shop/files/01_2_cr.jpg?v=1710940389&amp;width=1381</picture>
-      </image_link>
-      <tags>
-        <param name="Матеріал">срібло  в родії</param>
-        <param name="Покриття">срібло в родії</param>
-        <param name="Колір">білий</param>
-        <param name="Тип прикраси">чокер та монокульчик</param>
-        <param name="Стать">жіноча</param>
-        <param name="Вікова група">усі</param>
-        <param name="Розмір">універсальний</param>
-        <param name="Регулюється">так</param>
-        <param name="Тип замка">замок</param>
-        <param name="Тип виробництва">ручна робота</param>
-        <param name="Водостійкість">ні</param>
-      </tags>
-    </offer>
   </offers>
 </Market>
