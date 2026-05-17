@@ -1,6 +1,6 @@
 {
   "total": 86,
-  "updatedAt": "2026-05-17T10:09:11Z",
+  "updatedAt": "2026-05-17T20:47:41Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -176,7 +176,7 @@
       "code": "acc-coral-c",
       "price": 3350,
       "availability": true,
-      "stock": 3,
+      "stock": 2,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
@@ -198,7 +198,7 @@
       "warehouses": [
         {
           "id": "1",
-          "stock": 3
+          "stock": 2
         }
       ],
       "manufacture": {
