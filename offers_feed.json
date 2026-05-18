@@ -1,6 +1,6 @@
 {
-  "total": 86,
-  "updatedAt": "2026-05-18T12:39:03Z",
+  "total": 88,
+  "updatedAt": "2026-05-18T12:43:15Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -2922,6 +2922,76 @@
       "max_pay_in_parts": 6,
       "days_to_dispatch": 7,
       "old_price": 9950,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-set-soloveyko-earrings-ring",
+      "price": 8250,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 10,
+      "old_price": 8250,
+      "delivery_methods": [
+        {
+          "method": "nova-post:branch",
+          "price": 0
+        },
+        {
+          "method": "nova-post:postomat",
+          "price": 0
+        },
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        }
+      ],
+      "warehouses": [
+        {
+          "id": "1",
+          "stock": 3
+        }
+      ],
+      "manufacture": {
+        "country_code": "UA",
+        "year": null
+      }
+    },
+    {
+      "code": "acc-set-soloveyko-mon-ring",
+      "price": 8250,
+      "availability": true,
+      "stock": 3,
+      "warranty_type": "no",
+      "warranty_period": 0,
+      "max_pay_in_parts": 6,
+      "days_to_dispatch": 10,
+      "old_price": 8250,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
