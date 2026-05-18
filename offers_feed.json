@@ -1,6 +1,6 @@
 {
   "total": 86,
-  "updatedAt": "2026-05-18T12:01:45Z",
+  "updatedAt": "2026-05-18T12:39:03Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -44,7 +44,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 7,
+      "days_to_dispatch": 1,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -180,7 +180,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 7,
+      "days_to_dispatch": 1,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -214,7 +214,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 7,
+      "days_to_dispatch": 1,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -2291,7 +2291,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 7,
+      "days_to_dispatch": 3,
       "old_price": 4100,
       "delivery_methods": [
         {
@@ -2466,7 +2466,7 @@
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
-      "days_to_dispatch": 7,
+      "days_to_dispatch": 4,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
