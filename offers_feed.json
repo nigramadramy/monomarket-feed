@@ -1,6 +1,6 @@
 {
   "total": 86,
-  "updatedAt": "2026-05-18T11:05:54Z",
+  "updatedAt": "2026-05-18T12:01:45Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -345,8 +345,8 @@
     {
       "code": "acc-sun-gold",
       "price": 59500,
-      "availability": true,
-      "stock": 3,
+      "availability": false,
+      "stock": 0,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
@@ -368,7 +368,7 @@
       "warehouses": [
         {
           "id": "1",
-          "stock": 3
+          "stock": 0
         }
       ],
       "manufacture": {
