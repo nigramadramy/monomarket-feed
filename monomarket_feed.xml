@@ -729,7 +729,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">45-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">без замка</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -790,7 +790,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">45-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -850,7 +850,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">45-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -910,7 +910,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">45-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -972,7 +972,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1032,7 +1032,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1092,7 +1092,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1152,7 +1152,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1212,7 +1212,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1272,7 +1272,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1334,7 +1334,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1396,7 +1396,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1458,7 +1458,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1519,7 +1519,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1581,7 +1581,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1641,7 +1641,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1701,7 +1701,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1761,7 +1761,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1823,7 +1823,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1883,7 +1883,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -1943,7 +1943,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2003,7 +2003,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2063,7 +2063,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2124,7 +2124,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2184,7 +2184,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2245,7 +2245,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2306,7 +2306,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2367,7 +2367,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2428,7 +2428,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2489,7 +2489,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2550,7 +2550,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2611,7 +2611,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2673,7 +2673,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2734,7 +2734,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2795,7 +2795,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2856,7 +2856,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2917,7 +2917,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -2978,7 +2978,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3039,7 +3039,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3100,7 +3100,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3161,7 +3161,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3222,7 +3222,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3283,7 +3283,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3344,7 +3344,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3406,7 +3406,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3467,7 +3467,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3529,7 +3529,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3590,7 +3590,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3651,7 +3651,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3712,7 +3712,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3773,7 +3773,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
@@ -3834,7 +3834,7 @@
         <param name="Тип прикраси">підвіска</param>
         <param name="Стать">унісекс</param>
         <param name="Вікова група">усі</param>
-        <param name="Розмір">44-55 см</param>
+        <param name="Розмір">45</param>
         <param name="Регулюється">так</param>
         <param name="Тип замка">замок</param>
         <param name="Тип виробництва">ручна робота</param>
