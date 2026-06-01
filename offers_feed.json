@@ -1,6 +1,6 @@
 {
   "total": 87,
-  "updatedAt": "2026-05-29T08:11:07Z",
+  "updatedAt": "2026-06-01T15:35:35Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -2564,7 +2564,7 @@
     },
     {
       "code": "set-stf-nk-er",
-      "price": 9456,
+      "price": 9450,
       "availability": true,
       "stock": 3,
       "warranty_type": "no",
