@@ -1,6 +1,6 @@
 {
   "total": 87,
-  "updatedAt": "2026-06-01T15:35:35Z",
+  "updatedAt": "2026-06-15T08:09:55Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -43,7 +43,7 @@
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
-      "max_pay_in_parts": 12,
+      "max_pay_in_parts": 6,
       "days_to_dispatch": 1,
       "delivery_methods": [
         {
@@ -179,7 +179,7 @@
       "stock": 2,
       "warranty_type": "no",
       "warranty_period": 0,
-      "max_pay_in_parts": 12,
+      "max_pay_in_parts": 6,
       "days_to_dispatch": 1,
       "delivery_methods": [
         {
@@ -213,7 +213,7 @@
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
-      "max_pay_in_parts": 12,
+      "max_pay_in_parts": 6,
       "days_to_dispatch": 1,
       "delivery_methods": [
         {
@@ -2430,7 +2430,7 @@
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
-      "max_pay_in_parts": 16,
+      "max_pay_in_parts": 6,
       "days_to_dispatch": 4,
       "delivery_methods": [
         {
@@ -2849,7 +2849,7 @@
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
-      "max_pay_in_parts": 10,
+      "max_pay_in_parts": 6,
       "days_to_dispatch": 7,
       "old_price": 9950,
       "delivery_methods": [
