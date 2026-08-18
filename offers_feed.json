@@ -1,6 +1,6 @@
 {
   "total": 87,
-  "updatedAt": "2026-08-18T09:12:01Z",
+  "updatedAt": "2026-08-18T09:17:20Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -2296,8 +2296,8 @@
     {
       "code": "acc-set-suzir-pearl",
       "price": 3700,
-      "availability": true,
-      "stock": 3,
+      "availability": false,
+      "stock": 0,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
@@ -2320,7 +2320,7 @@
       "warehouses": [
         {
           "id": "1",
-          "stock": 3
+          "stock": 0
         }
       ],
       "manufacture": {
@@ -2331,8 +2331,8 @@
     {
       "code": "acc-shell-pearls-short-ring-set",
       "price": 5600,
-      "availability": true,
-      "stock": 3,
+      "availability": false,
+      "stock": 0,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
@@ -2355,7 +2355,7 @@
       "warehouses": [
         {
           "id": "1",
-          "stock": 3
+          "stock": 0
         }
       ],
       "manufacture": {
@@ -2366,8 +2366,8 @@
     {
       "code": "acc-set-white-pearl",
       "price": 7600,
-      "availability": true,
-      "stock": 3,
+      "availability": false,
+      "stock": 0,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
@@ -2390,7 +2390,7 @@
       "warehouses": [
         {
           "id": "1",
-          "stock": 3
+          "stock": 0
         }
       ],
       "manufacture": {
