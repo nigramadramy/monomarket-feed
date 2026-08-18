@@ -1,6 +1,6 @@
 {
   "total": 87,
-  "updatedAt": "2026-08-18T09:17:20Z",
+  "updatedAt": "2026-08-18T09:17:52Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -2925,8 +2925,8 @@
     {
       "code": "acc-set-soloveyko-mon-ring",
       "price": 8250,
-      "availability": true,
-      "stock": 3,
+      "availability": false,
+      "stock": 0,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
@@ -2949,7 +2949,7 @@
       "warehouses": [
         {
           "id": "1",
-          "stock": 3
+          "stock": 0
         }
       ],
       "manufacture": {
