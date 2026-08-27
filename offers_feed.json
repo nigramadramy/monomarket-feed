@@ -1,6 +1,6 @@
 {
   "total": 87,
-  "updatedAt": "2026-08-18T09:17:52Z",
+  "updatedAt": "2026-08-27T11:59:55Z",
   "data": [
     {
       "code": "acc-brac-now",
@@ -38,14 +38,13 @@
     },
     {
       "code": "acc-kul-sol-mal",
-      "price": 3375,
+      "price": 3750,
       "availability": true,
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
       "days_to_dispatch": 1,
-      "old_price": 3750,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -73,14 +72,13 @@
     },
     {
       "code": "acc-sun",
-      "price": 4005,
+      "price": 4450,
       "availability": true,
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
       "days_to_dispatch": 7,
-      "old_price": 4450,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -108,14 +106,13 @@
     },
     {
       "code": "acc-sun-brac",
-      "price": 2430,
+      "price": 2700,
       "availability": true,
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
       "days_to_dispatch": 7,
-      "old_price": 2700,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -143,14 +140,13 @@
     },
     {
       "code": "acc-ear-skif-2",
-      "price": 5040,
+      "price": 5600,
       "availability": true,
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
       "days_to_dispatch": 7,
-      "old_price": 5600,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -178,14 +174,13 @@
     },
     {
       "code": "acc-coral-c",
-      "price": 3015,
+      "price": 3350,
       "availability": true,
       "stock": 2,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
       "days_to_dispatch": 1,
-      "old_price": 3350,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -213,14 +208,13 @@
     },
     {
       "code": "acc-coral-p",
-      "price": 3015,
+      "price": 3350,
       "availability": true,
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
       "days_to_dispatch": 1,
-      "old_price": 3350,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -248,14 +242,13 @@
     },
     {
       "code": "acc-kul-sol-big",
-      "price": 3375,
+      "price": 3750,
       "availability": true,
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
       "days_to_dispatch": 7,
-      "old_price": 3750,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -283,14 +276,13 @@
     },
     {
       "code": "acc-neck-skif-bead",
-      "price": 5310,
+      "price": 5900,
       "availability": true,
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
       "days_to_dispatch": 7,
-      "old_price": 5900,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -318,14 +310,13 @@
     },
     {
       "code": "acc-ring-kol-silver",
-      "price": 3105,
+      "price": 3450,
       "availability": true,
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
       "days_to_dispatch": 7,
-      "old_price": 3450,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
@@ -387,14 +378,13 @@
     },
     {
       "code": "acc-kul-sun-2",
-      "price": 3600,
+      "price": 4000,
       "availability": true,
       "stock": 3,
       "warranty_type": "no",
       "warranty_period": 0,
       "max_pay_in_parts": 6,
       "days_to_dispatch": 7,
-      "old_price": 4000,
       "delivery_methods": [
         {
           "method": "nova-post:branch",
